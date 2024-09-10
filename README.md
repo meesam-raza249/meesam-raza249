@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meesam Raza</h1>
-<h3 align="center">A passionate BS IT student at Govt.Graduate College.i am interested in coding and technology Roll No 46 Samanabad Faisalabad</h3>
+<h3 align="center">A passionate BS IT student at Govt.Graduate College Samnabad Faisalabad.i am interested in coding and technology Roll No 46 </h3>
 
 - 🔭 I’m currently learning **C++ Programming**
 
